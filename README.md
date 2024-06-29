@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosJamesAlanano
-- 👀 I’m interested in programming in Java.
-- 🌱 I’m currently learning Java and Web Development
+- 👀 I’m interested in programming in Java, C#, HTML, and JS.
+- 🌱 I’m currently learning Java, C#, and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: in my profile.
 
