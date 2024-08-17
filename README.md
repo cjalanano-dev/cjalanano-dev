@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carlos James Alanano and I'm an aspiring software engineer, from the City of San Pablo, Laguna Province, Philippines.</p>
+<p align="left">My name is Carlos James Alanano and I'm an aspiring Software Engineer, from the City of San Pablo, Laguna Province, Philippines.</p>
 
 ###
 
