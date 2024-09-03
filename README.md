@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning .NET Technologies and Fullstack Web Development.<br>🎯 Goals: Get into the tech industry within the next five years.<br>🎲 Fun fact: I work well under immense pressure. I use arch, btw.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning .NET Technologies and Fullstack Web Development.<br>🎯 Goals: Get into the tech industry within the next five years.<br>🎲 Fun fact: I work well under immense pressure.</p>
 
 ###
 
