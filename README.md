@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Full Stack Frameworks for Web Development.<br>🎯 Goals: Get into the tech industry within the next five years.<br>🎲 Fun fact: I love solving puzzles.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Full Stack Web Development.<br>🎯 Goals: Get into the tech industry within the next five years.<br>🎲 Fun fact: I like the color blue.</p>
 
 ###
 
@@ -40,15 +40,3 @@
 
 ###
 
-<h2 align="left">My socials</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/mrztdsh/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://discordapp.com/users/mr.ztdsh"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:cjalanano.dev@gmail.com?Subject=Hello"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/carlos-james-alanano-a9b4942a6/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-
-###
