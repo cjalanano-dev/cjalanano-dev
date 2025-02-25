@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Full Stack Web Development.<br>🎯 Goals: Get into the tech industry within the next five years.<br>🎲 Fun fact: I like the color blue.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Backend and Database Development.<br>🎯 Goals: Get into the tech industry within the next five years.<br>🎲 Fun fact: I like the color blue.</p>
 
 ###
 
