@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey developers! 👋</h1>
+<h1 align="center">hello people! 👋</h1>
 
 ###
 
