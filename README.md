@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Carlos from STI College San Pablo<br><br>- 🔭 I’m working as an Intern in Frontline Business Solutions, Inc.<br>- 📚 I'm currently learning Web Development, Database Management, and Graphic Designing<br>- ⚡ In my free time I do side projects and learn tech things</p>
+<p align="left">I'm Carlos from STI College San Pablo<br><br>- 🔭 I’m working collaboratively with ONE Development.<br>- 📚 I'm currently learning Web Development, Database Management, and Graphic Designing<br>- ⚡ In my free time I do side projects and learn tech things</p>
 
 ###
 
