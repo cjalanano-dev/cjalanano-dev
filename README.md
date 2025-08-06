@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carlos and I'm a Computer Science Student, from Laguna State Polytechnic University - San Pablo City Campus</p>
+<p align="left">My name is Carlos and I'm a Computer Science Student from Laguna State Polytechnic University - San Pablo City Campus</p>
 
 ###
 
