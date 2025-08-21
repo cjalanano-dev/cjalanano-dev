@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">My name is Carlos and I'm a Computer Science Student from Laguna State Polytechnic University - San Pablo City Campus</p>
+<p align="left">My name is Carlos and I'm a Computer Science Student, from Laguna State Polytechnic University - San Pablo City Campus</p>
 
 ###
 
 <div align="left">
-  <a href="mailto:carlosalanano.dev@gmail.com?subject=Good%20Day%2C%20Developer!" target="_blank">
+  <a href="mailto:cjalanano.dev@gmail.com?subject=Good%20Day%2C%20Developer!" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/cjalanano-dev/" target="_blank">
@@ -34,6 +34,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
