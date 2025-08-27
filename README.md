@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carlos and I'm a Computer Science Student, from Laguna State Polytechnic University - San Pablo City Campus</p>
+<p align="left">My name is Carlos and I'm a Computer Science Student, from Laguna State Polytechnic University - San Pablo City Campus. I like to share my knowledge of computers and programming in general.</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Machine Learning<br>🎯 Goals: Contribute to society through technology<br>🎲 Fun fact: I love the color blue</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning low level systems<br>🎯 Goals: Contribute to society through technology<br>🎲 Fun fact: I love the color blue</p>
 
 ###
 
