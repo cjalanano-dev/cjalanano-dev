@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning low level systems<br>🎯 Goals: Contribute to society through technology<br>🎲 Fun fact: I love the color blue</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning php :)<br>🎯 Goals: Contribute to society through technology<br>🎲 Fun fact: I love the color blue</p>
 
 ###
 
