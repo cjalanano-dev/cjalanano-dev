@@ -1,6 +1,8 @@
 # 👋 Hi, I'm cjalanano-dev!
 
-I'm a **first year Computer Science student** at **LSPU - San Pablo City Campus**. Passionate about technology and always eager to learn something new!
+I'm a **first-year Computer Science student** at **LSPU - San Pablo City Campus**. I'm passionate about technology and always eager to learn something new!
+
+---
 
 ## 🚀 Skills & Tools
 <p align="center">
@@ -15,20 +17,28 @@ I'm a **first year Computer Science student** at **LSPU - San Pablo City Campus*
   <!-- Add more logos as you learn new tools! -->
 </p>
 
+---
+
 ## 📚 Education
-- Studied IT in Mobile App and Web Development during Senior High School in STI College San Pablo. <br>
-- Currently studying Computer Science at LSPU - San Pablo City Campus.
+- Graduated from STI College San Pablo, specializing in IT (Mobile App & Web Development) during Senior High School
+- Currently pursuing BS Computer Science at LSPU - San Pablo City Campus
+
+---
 
 ## 💡 What I'm Working On
-Curious and experimenting with different technologies. Check out my repositories:
+I love experimenting with different technologies and building projects that help me learn and grow. Check out some of my work:
 - [F1-laptime-calculator](https://github.com/cjalanano-dev/F1-laptime-calculator)
 - [C-Files](https://github.com/cjalanano-dev/C-Files)
 - [Untitled Text Based Game](https://github.com/cjalanano-dev/Untitled-Text-Based-Game)
 
+---
+
 ## 🌱 Learning Journey
 - Exploring new languages and frameworks
-- Building projects to sharpen my skills
-- Collaborating on open source (open to contributions and feedback!)
+- Building hands-on projects to sharpen my skills
+- Collaborating on open source (always open to feedback and contributions!)
+
+---
 
 ## 📫 Connect With Me
 <p align="center">
@@ -38,7 +48,7 @@ Curious and experimenting with different technologies. Check out my repositories
   <a href="mailto:cjalanano.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="linkedin.com/in/cjalanano-dev">
+  <a href="https://linkedin.com/in/cjalanano-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
