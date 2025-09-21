@@ -20,7 +20,7 @@ I'm a **first-year Computer Science student** at **LSPU - San Pablo City Campus*
 ---
 
 ## 📚 Education
-- Graduated from STI College San Pablo, specializing in IT (Mobile App & Web Development) during Senior High School
+- Graduated from STI College San Pablo, specializing in IT in Mobile App & Web Development during Senior High School
 - Currently pursuing BS Computer Science at LSPU - San Pablo City Campus
 
 ---
