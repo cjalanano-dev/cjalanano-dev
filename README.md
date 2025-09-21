@@ -16,8 +16,8 @@ I'm a **first year Computer Science student** at **LSPU - San Pablo City Campus*
 </p>
 
 ## 📚 Education
-Studied IT in Mobile App and Web Development during Senior High School in STI College San Pablo. <br>
-Currently studying Computer Science at LSPU - San Pablo City Campus.
+- Studied IT in Mobile App and Web Development during Senior High School in STI College San Pablo. <br>
+- Currently studying Computer Science at LSPU - San Pablo City Campus.
 
 ## 💡 What I'm Working On
 Curious and experimenting with different technologies. Check out my repositories:
