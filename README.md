@@ -21,9 +21,8 @@ Currently studying Computer Science at LSPU - San Pablo City Campus.
 ## 💡 What I'm Working On
 Curious and experimenting with different technologies. Check out my repositories:
 - [F1-laptime-calculator](https://github.com/cjalanano-dev/F1-laptime-calculator)
-- [crudtest](https://github.com/cjalanano-dev/crudtest)
-- [google-test](https://github.com/cjalanano-dev/google-test)
 - [C-Files](https://github.com/cjalanano-dev/C-Files)
+- [Untitled Text Based Game](https://github.com/cjalanano-dev/Untitled-Text-Based-Game)
 
 ## 🌱 Learning Journey
 - Exploring new languages and frameworks
