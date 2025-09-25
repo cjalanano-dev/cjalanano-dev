@@ -27,8 +27,8 @@ I'm a **first-year Computer Science student** at **LSPU - San Pablo City Campus*
 
 ## 💡 What I'm Working On
 I love experimenting with different technologies and building projects that help me learn and grow. Check out some of my work:
+- [Blockchain Voting Simulation](https://github.com/cjalanano-dev/Blockchain-Voting-Simulator)
 - [F1-laptime-calculator](https://github.com/cjalanano-dev/F1-laptime-calculator)
-- [C-Files](https://github.com/cjalanano-dev/C-Files)
 - [Untitled Text Based Game](https://github.com/cjalanano-dev/Untitled-Text-Based-Game)
 
 ---
