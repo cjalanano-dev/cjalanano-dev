@@ -1,4 +1,4 @@
-# 👋 Hi, I'm cjalanano-dev!
+# 👋 Hi, I'm Carlos James!
 
 I'm a **first-year Computer Science student** at **LSPU - San Pablo City Campus**. I'm passionate about technology and always eager to learn something new!
 
